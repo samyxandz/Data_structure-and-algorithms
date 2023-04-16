@@ -20,7 +20,7 @@ A linked list is a linear data structure, in which the elements are not stored a
 ## different types of linked list explaination and links to code
 
 <ol>
- <li>### Singly linked lists  
+ <li> ### Singly linked lists  
   
  </li
 <ol>
