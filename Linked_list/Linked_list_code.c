@@ -50,7 +50,6 @@ void display (node *head)
 }
 
 void insert (node **head)
-
 {
     int k = 0, rno;
     node *p, *q, *new;
@@ -85,6 +84,37 @@ void insert (node **head)
 
     }
 
+}
+
+//deleting a node
+void delete (node **head)
+{
+    int rno;
+    node *p, *q;
+    printf ("\nDelete for roll :");
+    scanf ("%d", &rno);
+    p = *head;
+    if (p->roll == rno)
+    /* Delete the first element */
+    {
+        *head = p->next;
+        free (p);
+    }else
+    {
+    while ((p != NULL) && (p->roll != rno))
+        {
+            q = p;
+            p = p->next;
+            }
+            if (p == NULL) /* Element not found */
+            printf ("\nNo match :: deletion failed");
+            else if (p->roll == rno)
+            /* Delete any other element */
+            {
+            q->next = p->next;
+            free (p);
+        }
+    }
 }
 
 int main()
