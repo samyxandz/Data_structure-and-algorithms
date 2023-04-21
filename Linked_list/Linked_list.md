@@ -24,7 +24,16 @@ A linked list is a linear data structure, in which the elements are not stored a
   A singly linked list is a linear data structure in which the elements are not stored in contiguous memory locations and each element is connected only to its next element using a pointer.</p><br>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/93726747/232763680-9ccdb8f5-e2bc-43bd-b44a-5fdf327388fb.png" align="centre" width="600" height="250">
-
-  </p>
- </li
-<ol>
+<p>
+<h3>Operations that can be performed</h3>
+    <ul>
+      <li>Creating a list</li>
+      <li>Traversing the list</li>
+      <li>Inserting an item in the list</li>
+      <li>Deleting an item from the list</li>
+      <li>Concatenating two lists into one</li>
+      </ul>
+</p>
+</p>
+ </li>
+</ol>
