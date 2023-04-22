@@ -1,9 +1,12 @@
 # **Definition**
-<br />
+<br >
 
 A stack is a list with the restriction that insertions and deletions can only be performed at the top of the list.
- </br>
- </br>
+ <br>
+ <br>
+ <p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png" align="centre" width="600" height="250"></p>
+<br>
 
 <h3>Operations that can be performed on the stack</h3>
     <ul>
