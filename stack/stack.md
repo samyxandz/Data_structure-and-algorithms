@@ -19,7 +19,7 @@ A stack is a list with the restriction that insertions and deletions can only be
       </ul>
 
 <ul>
-<h4> Implementation of stack</h4>
+<h3> Implementation of stack</h3>
 <li>Arrays (static: the size of stack is given initially)
 </li>
 <li>
