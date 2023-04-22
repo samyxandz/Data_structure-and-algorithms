@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include <stdlib.h>
     struct stud {
     int roll;
     char name[25];
