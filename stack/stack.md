@@ -18,3 +18,11 @@ A stack is a list with the restriction that insertions and deletions can only be
       <li><strong>DisplayStack<strong>: print all the data in the stack.</li>
       </ul>
 
+<ul>
+<h4> Implementation of stack</h4>
+<li>Arrays (static: the size of stack is given initially)
+</li>
+<li>
+Linked lists (dynamic: never become full)
+</li>
+</ul>
