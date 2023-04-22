@@ -36,4 +36,14 @@ A linked list is a linear data structure, in which the elements are not stored a
 </p>
 </p>
  </li>
+ <li>
+ <h3>Circular linked list</h3>
+ <br>
+ The pointer from the last element in the list points back
+to the first element.
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/CircularLinkeList.png" align="centre" width="600" height="250">
+</p>
+ 
+ </li>
 </ol>
