@@ -11,10 +11,9 @@ First In, First Out (FIFO) order.
 <br/>
 
 <ol>
- <li>Singly linked lists</li>
- <li>Doubly linked lists.</li>
- <li>Circular linked lists.</li>
- <li>Circular doubly linked lists.</li>
+ <li>normal Queue</li>
+ <li>Doubly ended Queue(deque)</li>
+ 
   </ol>
     
       
@@ -29,7 +28,7 @@ First In, First Out (FIFO) order.
 <h3>Operations that can be performed</h3>
     <ul>
       <li>Creating a queue</li>
-      <li>enque  
+      <li>enque  <br>
       Insert an element at the rear of the queue</li>
       <li>deque  
       </li>
