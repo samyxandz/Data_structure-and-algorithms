@@ -3,6 +3,7 @@ struct Node {
     int data;
     struct Node *next;
 };
+
 typedef struct Node node;
 
 node *create_list()
