@@ -17,7 +17,7 @@ lorem
  <li>postorder.(LRN)
   </ol>
     
-      <!--
+ <!--
 ## different types of linked list explaination and links to code
 
 <ol>
