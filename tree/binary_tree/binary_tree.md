@@ -10,13 +10,21 @@ lorem
 <br/>
 
 <ol>
- <li>levelorder
+ <li>level order
  <li>reverse level order
  <li>preorder.(NLR)
  <li>inorder.(LNR)
  <li>postorder.(LRN)
   </ol>
-    
+  <br>
+  <ol><strong>operations</strong>
+ <li>height of tree</li>  
+  <li>diameter of a tree</li>  
+  <li></li>  
+  <li></li>  
+  <li></li>  
+  <li></li>  
+  
  <!--
 ## different types of linked list explaination and links to code
 
